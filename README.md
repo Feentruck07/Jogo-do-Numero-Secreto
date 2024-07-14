@@ -1,6 +1,6 @@
 <h1 align="center"> # Challenge Alura Jogo do Número Secreto # </h1>
 
-<h1 align="center"><img loading= "lazy" src= "https://github.com/user-attachments/assets/97c22b28-be79-4d8b-955a-342f313e586f"/></h1>
+<h1 align="center"><img loading= "lazy" src= "https://github.com/user-attachments/assets/8dc13899-d262-4daf-99af-2314eef228da"/></h1>
 </img>
 "/></h1>
 
