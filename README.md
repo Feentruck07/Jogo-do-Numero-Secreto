@@ -7,7 +7,7 @@
 <p align="center">
 ### Tecnologias utilizadas: ###
 <p align="center">
-- [Flyway Migration](https://start.spring.io/)
+- HTML e CSS.
 <p align="center">    
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
 <p align="center">    
